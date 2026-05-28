@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Disallow: /mentions-legales.html
-
-Sitemap: https://www.lebonheurspirituel.fr/sitemap.xml
